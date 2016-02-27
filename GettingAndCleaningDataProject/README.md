@@ -23,3 +23,4 @@ course "Getting and Cleaning Data" through JHU.
 * In R, run `source("run_analysis.R")`
 * In R, run `run_analysis()`
 * This will produce the aforementioned tidied datasets
+* Read those datasets in R using `read.table("data.txt")` and `read.table("averages.txt")`
